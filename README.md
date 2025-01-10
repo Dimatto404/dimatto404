@@ -2,6 +2,7 @@
 <h3 align="center">A Full Stack developer from Uruguay.</h3>
 
 I’m currently working on **improving my Back-end skills.**
+
 Interested in everything regarding **neural networks and cybersecurity.**
 
 <h3 align="left">Connect with me:</h3>
