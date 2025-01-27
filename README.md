@@ -1,10 +1,29 @@
 <h1 align="center">Hi, I'm Diogo Machado.</h1>
-<h3 align="center">A Full Stack developer from Uruguay.</h3>
+# 💻 A Full Stack Developer in the Making  
 
+Hi there! 👋 I'm a **Full Stack Developer** with a passion for creating impactful and user-friendly web applications. After completing an intensive bootcamp, I'm diving into the tech world with skills in both **frontend** and **backend** development, a knack for problem-solving, and a commitment to continuous learning.  
 
-I’m currently working on **improving my Back-end skills.**
+---
 
-Interested in everything regarding **neural networks and cybersecurity.**
+### 🌟 **What I'm working on**  
+- 🚀 Developing a project that integrates cloud technologies and DevOps principles.  
+- 🎮 Exploring game development with **Godot** to create immersive 3D experiences.  
+- 📚 Expanding my knowledge in backend optimization and scalable solutions.  
+
+---
+
+### 📌 **Projects**  
+- **Authentication System with JWT:** A full-featured authentication system using React, Flask, and PostgreSQL.  
+- **3D Game Prototype:** A first-person exploration game built with Godot Engine.  
+- **Portfolio Website:** A responsive and interactive personal portfolio showcasing my journey and projects.  
+
+---
+
+### ⚡ **Fun Facts**  
+- 🎨 I’m exploring digital Doodle Art to sharpen my creativity.
+- 🌟 Always up for a coding challenge or brainstorming a new project idea!
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
